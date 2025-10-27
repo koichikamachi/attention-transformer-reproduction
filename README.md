@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow">
+  <img src="https://img.shields.io/badge/Colab-Compatible-yellow?logo=googlecolab">
+  <img src="https://img.shields.io/badge/License-MIT-blue">
+  <img src="https://img.shields.io/badge/Status-Reproduction%20Project-brightgreen">
+</p>
+
+# 🧠 Attention Is All You Need — Transformer Reproduction (v6)
 # 🧠 Attention Is All You Need — Transformer Reproduction (v6)
 
 **Author:** Koichi Kamachi, CPA  
