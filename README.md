@@ -6,7 +6,7 @@
 </p>
 
 # 🧠 Attention Is All You Need — Transformer Reproduction (v6)
-# 🧠 Attention Is All You Need — Transformer Reproduction (v6)
+
 
 **Author:** Koichi Kamachi, CPA  
 **Repository:** [attention-transformer-reproduction](https://github.com/koichikamachi/attention-transformer-reproduction)  
