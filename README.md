@@ -6,6 +6,7 @@
 </p>
 
 # 🧠 Attention Is All You Need — Transformer Reproduction (v6)
+> 📚 *A faithful educational reconstruction of the Transformer model — for researchers, students, and curious practitioners.*
 
 
 **Author:** Koichi Kamachi, CPA  
